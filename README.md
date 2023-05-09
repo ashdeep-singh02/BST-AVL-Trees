@@ -86,6 +86,3 @@ To run Test Tree Mod, type:
 ```bash
 ./test_tree_mod rebase210.txt sequences.txt
 ```
-# Open in VSC
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7250658&assignment_repo_type=AssignmentRepo)
-You will use this exact `Makefile` for your Homework 2. Failure to do so will result in *deduction* of points. Replace this file with a `README.md` for your own project. You can move these instructions to the bottom of the file if you wish.
