@@ -1,7 +1,6 @@
 # BST & AVL Tree Implementation
 Ashdeep Singh
 
-CSCI 335 (Hunter College)
 
 The goal of this project was to become familiarized with BST and AVL tree operations, along with comparing the performance between the two tree structures. Our main objective of this program was to construct BST/AVL trees using data passed in via txt files. While we were provided with the basic implementation of the BST/AVL data structures, we had to implement more member functions inorder to complete out task. 
 
